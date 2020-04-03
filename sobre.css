@@ -1,0 +1,33 @@
+body
+{
+    background-image:url("images/ursa.jpeg");}
+
+.row{
+    position:relative;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+/*#img1
+{position: absolute;
+    right: 260px;
+    top:-48px;}
+#img2
+{position: absolute;
+    right: 260px;
+    top:-48px;}
+/*#img3
+{position: absolute;
+    right: 550px;
+    top:-55px;}*/
+/*#img4
+{position: absolute;
+    right: 260px;
+    top:-55px;}
+#img5
+{position: absolute;
+    right: 45%;
+    top: -45%;}*/
+.text-center
+{color:whitesmoke;
+text-shadow: 10px;
+}
