@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #2C404B !important;
+}
+
+.nav-item {
+    color: white !important;
+}
+
+.nav-login{
+    color: white !important;
+    position: absolute;
+    right: 30px;
+
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+body{
+    background-color: rgb(50, 79, 95);
+}

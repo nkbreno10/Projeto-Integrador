@@ -1,0 +1,53 @@
+.container{ background-color:rgba(0,0,0,0.5);
+	color:white;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.row{
+text-align:flex-start;
+display: flex;
+justify-content: center;
+padding-top: 60px;
+padding-bottom: 60px;
+}
+
+#estoque{
+	color:white;
+	text-align: center;
+}
+
+#compras{
+	text-align: center;
+}
+
+#faturamento{
+	text-align: center;
+}
+
+#financeiro{
+ text-align: center;
+}
+
+#vendas{
+	text-align: center;
+}
+
+#contabil{
+	text-align: center;
+}
+
+#rh{
+	text-align: center;
+}
+
+#acesso{
+	text-align: center;
+}
+
+.item{
+	padding: 0 20px;
+}
+

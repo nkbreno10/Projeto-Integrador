@@ -1,0 +1,48 @@
+﻿body {
+    background-image:"/images/ursa.jpeg";
+}
+.container {color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+       
+}
+.efeitos {
+    width: 300px;
+    padding: 70px;
+    position: relative;
+    right: 65px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Parceiros {
+    color: white !important;
+    text-align:center;
+    top:30px;
+}
+#rodape {
+    color: white;
+    background-color: #333;
+    text-align: center;
+}
+#fundo {background-color: #333;}
+.empresatexto {
+    position: relative;
+    top: -20px;}
+.rodapecopy {
+    background-color: #333;
+}
+footer {background-color: #333;}
+.ende { text-align: right;}
+.ende1 {
+    position: relative;
+    right: 65px;}
+.ende2 { 
+    position: relative;
+    right: 90px;}
+
+
